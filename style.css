@@ -1,10 +1,5 @@
 @charset "utf-8";
 /* CSS Document */
-
-.top-banner{
-	background: #3498db;
-}
-
 .header
 {
 	background: #212A3F;
@@ -149,7 +144,7 @@
 }
 .text-box p
 {
-	font-size: 10px
+	font-size: 10px;
 	font-weight: 400;
 }
 .text-box p span
@@ -275,10 +270,8 @@ h2.features-text::after {
 {
 	margin:30px 0px;
 }
-.icon-text-box
-{
 
-}
+
 .icon-text-box h4
 {
 
